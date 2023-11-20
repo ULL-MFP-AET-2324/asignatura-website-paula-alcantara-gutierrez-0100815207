@@ -4,7 +4,7 @@ Ejemplo en Jekyll de una página para visualizar una categoría llamada `clases`
 
 {% raw %}
 ```
-➜  pl2021apuntes git:(main) ✗ cat  pages/clases.md
+➜  pl2021apuntes git:(main) ✗ cat  pages/clases.html
 ```
 ```html
 ---
