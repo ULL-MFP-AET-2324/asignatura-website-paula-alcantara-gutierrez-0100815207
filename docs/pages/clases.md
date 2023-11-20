@@ -5,4 +5,4 @@ permalink: /Clases
 
 # Clases
 
-{% include clases-impartidas.md %}
+{% include clases.md %}
