@@ -18,9 +18,9 @@ organization:
   name: ULL-MFP-AET-2324-alu0100815207
   master: https://github.dev/ULL-MFP-AET/ull-mfp-aet.github.io/blob/main/
 apuntes_repo: https://github.com/ULL-MFP-AET/ull-mfp-aet.github.io/
-campus_virtual: "https://classroom.github.com/classrooms/149107114-ull-mfp-aet-2324-alu0100815207"
+campus_virtual: https://github.com/ULL-MFP-AET-2324/equipos-eq-cristian-oscar-paula
 tareas_en_el_campus: https://github.com/ULL-MFP-AET-2324/equipos-eq-cristian-oscar-paula/issues
-profesor: "https://github.com/Paula150395"
+profesor: https://github.com/Paula150395
 profesor_github: Paula150395
 chat: https://chat.google.com
 future: true
@@ -28,7 +28,7 @@ disqus:
   url: https://procesadores-de-lenguajes.disqus.com/embed.js
   comments: true
 classroom: 
-  url: "https://classroom.github.com/classrooms/149107114-ull-mfp-aet-2324-alu0100815207"
+  url: https://classroom.github.com/classrooms/149107114-ull-mfp-aet-2324-alu0100815207
   name: ULL-MFP-AET-2324-alu0100815207
 collections:
   tareas:
