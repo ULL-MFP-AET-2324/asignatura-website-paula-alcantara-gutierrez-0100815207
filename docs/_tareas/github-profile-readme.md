@@ -2,7 +2,7 @@
 layout: default
 title: Creando Perfiles, Organizaciones, Aulas y Asignaciones
 permalink: /practicas/creando-un-perfil
-classroom: https://classroom.github.com/a/mgV_maOt
+classroom: https://classroom.github.com/classrooms/149107114-ull-mfp-aet-2324-alu0100815207
 name: Managing your profile README
 date: 0000/03/01
 key: profile
