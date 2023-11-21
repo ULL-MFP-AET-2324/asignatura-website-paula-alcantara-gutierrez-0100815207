@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Equipos de 3
-permalink: /practicas/crear-equipos-de-3/
+permalink: /practicas/equipos-de-3/
 classroom: https://classroom.github.com/a/mgV_maOt
 name: Managing your profile README
 date: 0000/03/02
