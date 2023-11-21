@@ -87,10 +87,6 @@ Crea una asignación de grupo GHC para tu clase
 - Mi organización: https://github.com/ULL-MFP-AET-2324-alu0100815207 y su repo profile: https://github.com/ULL-MFP-AET-2324-alu0100815207/.github/blob/main/README.md
 - Mi classroom: https://classroom.github.com/classrooms/149107114-ull-mfp-aet-2324-alu0100815207
 
-## Actividad de los Alumnos para {{ page.key }}
-
-<a href="{{ site.baseurl }}/assets/tareas/{{ page.key }}/activity.html" target="_blank">Medidas de Actividad de los Alumnos para {{ page.key }}</a>
-
 ## Rúbrica
 
 {% include rubrica.md %}
