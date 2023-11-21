@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /clases
+permalink: /Clases
 ---
 
 # Clases
