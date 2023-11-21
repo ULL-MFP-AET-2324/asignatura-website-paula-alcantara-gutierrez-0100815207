@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creando Perfiles, Organizaciones, Aulas y Asignaciones
-permalink: /practicas/creando-un-perfil
+permalink: asignatura-website-paula-alcantara-gutierrez-0100815207//_tareas/github-profile-readme.html
 classroom: https://classroom.github.com/classrooms/149107114-ull-mfp-aet-2324-alu0100815207
 name: Managing your profile README
 date: 0000/03/01
