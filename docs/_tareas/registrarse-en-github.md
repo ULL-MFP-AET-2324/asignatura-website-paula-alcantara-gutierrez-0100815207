@@ -3,7 +3,7 @@ layout: default
 title: registrarse-en-github
 name: Registrarse en GitHub
 myurl: https://campusdoctoradoyposgrado.ull.es/mod/assign/view.php?id=282455&forceview=1
-permalink: asignatura-website-paula-alcantara-gutierrez-0100815207/blob/main/docs/_tareas/registrarse-en-github.md
+permalink: /tema0-introduccion/practicas/registrarse-en-github/
 date: 0000/01/01
 video: "ezxRcdJ8glM"
 toc: true
